@@ -1,0 +1,21 @@
+.notification_bar{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.notification_bar p{
+  margin: 20px;
+}
+.closeBtn{
+  margin: 10px;
+}
+
+.green{
+  background-color:green;
+}
+.red{
+  background-color:red;
+}
+.blue{
+  background-color:blue;
+}
